@@ -1,4 +1,4 @@
-# 🌱 Smart Plant Health Monitoring System using ESP8266
+# Smart Plant Health Monitoring System
 
 An IoT-based plant health monitoring system that measures temperature, humidity, and soil moisture in real time and displays the data on a black-themed web dashboard hosted by ESP8266.
 
@@ -114,3 +114,4 @@ IoT Project using ESP8266
 ## 📜 License
 
 This project is open-source and free to use for academic purposes.
+
